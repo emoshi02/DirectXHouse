@@ -1,0 +1,13 @@
+*.vsidx
+*.suo
+/03_GraphPrimitivesIB_D3DX/.vs/
+*.tlog
+*.exe
+*obj
+/03_GraphPrimitivesIB_D3DX/Debug/03_GraphPrimitivesIB_D3DX.ilk
+/03_GraphPrimitivesIB_D3DX/Debug/03_GraphPrimitivesIB_D3DX.exe.recipe
+/03_GraphPrimitivesIB_D3DX/Debug/03_GraphPrimitivesIB_D3DX.log
+/03_GraphPrimitivesIB_D3DX/Debug/03_GraphPrimitivesIB_D3DX.pdb
+/03_GraphPrimitivesIB_D3DX/Debug/03_GraphPrimitivesIB_D3DX.vcxproj.FileListAbsolute.txt
+/03_GraphPrimitivesIB_D3DX/Debug/vc143.idb
+/03_GraphPrimitivesIB_D3DX/Debug/vc143.pdb
